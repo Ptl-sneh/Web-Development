@@ -12,16 +12,6 @@ console.log("var, let, const")
  */
 
 
-var a = 45; //number
-var b = 'Sneh'; //string
-var c = null; //object
-var d = undefined; //undefined
-
-console.log(typeof (a));
-console.log(typeof (b));
-console.log(typeof (c));
-console.log(typeof (d));
-
 // var
 
 {
